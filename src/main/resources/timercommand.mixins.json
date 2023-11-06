@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "apollointhehouse.timercommand.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MinecraftAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
